@@ -26,7 +26,7 @@ public class TrueOrFalse {
         this.respuestas[7]  = true;
         this.respuestas[8]  = false;
         this.respuestas[9]  = true;
-        this.respuestas[10] = false;
+        this.respuestas[10] = true;
         this.respuestas[11] = false;
         this.respuestas[12] = false;        
     }

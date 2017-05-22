@@ -1,0 +1,50 @@
+
+Juan Diego Bencardino Perdomo
+	Quiz Final POO
+
+Punto 1
+
+a) true.
+b) false.
+c) true.
+d) true.
+e) false.
+f) false.
+g) false.
+h) true.
+i) false.
+j) true.
+k) false.
+l) false.
+m) false.
+
+Punto 2 a)
+a) 0 1 .
+b) 0 .
+
+Punto 2 b)
+varios de los codigos presentados presentan la Excepcion RuntimeException
+
+a throws RuntimeException.
+b throws RuntimeExpection.
+c throws RuntimeException.
+d throws RuntimeExcpetion.
+e throws RuntimeException.
+
+Punto 3 a)
+
+La salida de ejecutar C de (a) es: "A´s no-arg constructor is invoked".
+
+El problema de compilacion presentado en (b) es que:
+El constructor de A pide un argumento que nunca se le pasa
+porque ningun constructor de B le pasa ese argumento
+
+
+Punto 3 b)
+
+a) Verdadero
+
+b) Falso
+
+c) Verdadero
+
